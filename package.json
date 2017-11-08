@@ -1,0 +1,23 @@
+{
+  "name": "hackernews",
+  "version": "1.0.0",
+  "description": "React JS project using GraphQL for improved API call response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvillejoint/GraphQL-React-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvillejoint/GraphQL-React-Project/issues"
+  },
+  "homepage": "https://github.com/kvillejoint/GraphQL-React-Project#readme",
+  "dependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
